@@ -7,6 +7,7 @@
     "check-types": "echo \"Types checked!\""
   },
   "dependencies": {
+    "luxon": "3.7.0",
     "tooling-config": "*"
   }
 }
